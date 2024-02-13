@@ -21,7 +21,7 @@ namespace DeadShowImage
         public override string ModuleAuthor => "CYBERC4T";
 
         private string currentImage;
-        private bool isShowImage;
+        public bool isShowImage;
         private int numberImage = 0;
 
         private static Config settings;
