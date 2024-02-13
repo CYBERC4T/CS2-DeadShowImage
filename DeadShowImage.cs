@@ -17,7 +17,7 @@ namespace DeadShowImage
     public class DeadShowImage : BasePlugin
     {
         public override string ModuleName => "DeadShowImage";
-        public override string ModuleVersion => "v1.2.0";
+        public override string ModuleVersion => "v1.2.1";
         public override string ModuleAuthor => "CYBERC4T";
 
         private string currentImage;
